@@ -1,0 +1,6 @@
+https://blog.csdn.net/joshuaxx316/article/details/47760785   
+java中转义字符(回车\r\n)的替换 反转义
+https://blog.csdn.net/csdnnews/article/details/82321777
+线程安全
+https://www.cnblogs.com/gdwkong/articles/7782331.html
+关于Pattern与Match
